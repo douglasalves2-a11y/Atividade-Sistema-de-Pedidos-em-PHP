@@ -20,4 +20,8 @@ Sistema simples desenvolvido em PHP para gerenciar pedidos de uma loja.
 2. Executar o arquivo index.php
 
 ## 👨‍💻 Autor
-Douglas Alves
+Douglas Henrique Alves
+David Sergio Finoti
+Dilermando  José Lourenço Junior
+Ryan Evaristo Silva
+
